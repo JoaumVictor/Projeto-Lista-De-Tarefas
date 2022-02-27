@@ -1,0 +1,15 @@
+.ButtonCSS {
+  font-size: 16px;
+  border-radius: 4px;
+  padding: 5px;
+  background-color: rgb(21, 173, 21);
+  border: none;
+  width: 100%;
+  cursor: pointer;
+  transition: all 0.7s ease;
+}
+
+.ButtonCSS:hover {
+  background-color: #555;
+  color: rgb(21, 173, 21);
+}

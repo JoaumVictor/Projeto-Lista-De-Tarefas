@@ -1,0 +1,15 @@
+.container-voltar {
+  width: 50%;
+}
+
+.descricao-container h2 {
+  color: rgb(21, 173, 21);
+}
+
+.descricao {
+  background-color: #555;
+  border-radius: 8px;
+  margin: 30px 0;
+  padding: 15px;
+  min-height: 40px;
+}

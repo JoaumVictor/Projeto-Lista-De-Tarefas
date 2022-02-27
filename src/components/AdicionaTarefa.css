@@ -1,0 +1,16 @@
+.container-add-tarefa {
+  display: flex;
+}
+
+.input-text {
+  padding: 5px;
+  background-color: #444;
+  width: 120%;
+  font-size: 16px;
+  border-radius: 8px;
+}
+
+.separar {
+  margin: auto 10px;
+  width: 200px;
+}
